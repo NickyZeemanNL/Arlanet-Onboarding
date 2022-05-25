@@ -1,0 +1,14 @@
+// https://zellwk.com/blog/css-architecture-1/
+
+.card {
+  &__header {
+    .title {
+    }
+    .date {
+    }
+  }
+  &__body {
+  }
+  &__footer {
+  }
+}
