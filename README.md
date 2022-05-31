@@ -1,6 +1,4 @@
 # Arlanet-Onboarding
-Dit is het Arlanet frontend onboarding project. Het doel van dit project is om bekend te raken met de f
+Dit is het Arlanet frontend onboarding project. Het doel van dit project is om het design na te maken en zo bekend te worden met de standaarden die wij hanteren binnen het frontend team. Denk hierbij bijvoorbeeld aan het gebruik van het Bootstrap grid en het gebruik van BEM.
 
-[Bootstrap](https://getbootstrap.com/docs/5.1/getting-started/introduction/)
-[SwiperJS](https://swiperjs.com/)
-[Lazysizes](https://github.com/aFarkas/lazysizes)
+In dit project vind je de huidige standaard opzet welke in elk nieuw project wordt gebruikt. 
